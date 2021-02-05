@@ -1,0 +1,37 @@
+/* pageStyle.css */
+body {
+font-family:sans-serif;
+}
+
+
+.firstDiv {
+  border: 3px outset black;
+  background-color:yellow;    
+  text-align: center;
+}
+
+h1 {
+ color: #FF0000;
+ text-align: center;
+ }
+
+ h2 {
+ color: #800080;
+ }
+
+th {
+  text-align: left;
+  padding: 10px;
+
+}
+
+tr:nth-child(even) {
+  background-color: #FFC0CB;}
+
+span {
+font-weight:bold; 
+}
+
+
+
+
